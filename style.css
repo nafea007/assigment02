@@ -5,7 +5,7 @@ nav  div a img{
     color: yellowgreen !important;
     font-weight: 500;
 }
-div ul li a:hover{
+li a:hover{
     color: rgb(218, 16, 100 !important);
     
 }
@@ -19,7 +19,7 @@ span{
 }
 .background-color{
     background-color: #FFFBF0;
-    max-height: 700px;
+    max-height: 850px;
 }
 .woman{
     border: white;
@@ -72,5 +72,10 @@ span{
 .border-radius1{
     background-color: rgb(240, 240, 240);
     border-radius: 20px;
+}
+footer{
+    background-color: slategray;
+    height: 50px;
+    color: white;
 }
 
