@@ -1,3 +1,39 @@
 nav  div a img{
     width: 250px;
 }
+div figure img{
+    max-width: 100%;
+    max-height: 400px;
+}
+.header{
+    font-size: 60px;
+    font-weight: 700;
+}
+span{
+    color: #FABE4C;
+}
+bttn{
+    background-color: #A4BC46;
+}
+.background-color{
+    background-color: #a17b10;
+    height: 500px;
+}
+.woman{
+    border: white;
+    height: 530px;
+    border-radius: 10px;
+}
+.woman img{
+    border-radius: 15px;
+    background-color: #F0F0F0;
+}
+.bttn{
+    position: relative;
+    left: 150px;
+    top: -60px;
+}
+.price{
+    font-size: 40px;
+    color: #FABE4C;
+}
