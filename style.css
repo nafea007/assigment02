@@ -12,12 +12,9 @@ div figure img{
 span{
     color: #FABE4C;
 }
-bttn{
-    background-color: #A4BC46;
-}
 .background-color{
-    background-color: #a17b10;
-    height: 500px;
+    background-color: #FFFBF0;
+    max-height: 700px;
 }
 .woman{
     border: white;
@@ -36,4 +33,14 @@ bttn{
 .price{
     font-size: 40px;
     color: #FABE4C;
+}
+.icon{
+    position: relative;
+    top: 15px;
+    left: 30px;
+}
+.house{
+    border: white;
+    height: 130px;
+    border-radius: 10px;
 }
