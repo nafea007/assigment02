@@ -1,10 +1,15 @@
 nav  div a img{
     width: 250px;
 }
-div figure img{
-    max-width: 100%;
-    max-height: 400px;
+.color{
+    color: yellowgreen !important;
+    font-weight: 500;
 }
+div ul li a:hover{
+    color: rgb(218, 16, 100 !important);
+    
+}
+
 .header{
     font-size: 60px;
     font-weight: 700;
