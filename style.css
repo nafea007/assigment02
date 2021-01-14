@@ -52,3 +52,20 @@ span{
     position: relative;
     top: -50px;
 }
+.house img{
+    width: 80px;
+    height: 80px;
+}
+.sec3-text{
+    position: relative;
+    top: 10px;
+    left: 5px;
+}
+.box1{
+    border-radius: 15px;
+}
+.border-radius1{
+    background-color: rgb(240, 240, 240);
+    border-radius: 20px;
+}
+
